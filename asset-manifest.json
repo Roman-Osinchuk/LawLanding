@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LawLanding/static/css/main.4d3d89ea.css",
-    "main.js": "/LawLanding/static/js/main.1e5e72f2.js",
+    "main.css": "/LawLanding/static/css/main.8a8d225c.css",
+    "main.js": "/LawLanding/static/js/main.e6e2eab7.js",
     "static/media/oksford.jpg": "/LawLanding/static/media/oksford.e16b461fcec2f3d0497f.jpg",
     "static/media/mappng.png": "/LawLanding/static/media/mappng.7e0c86a6eda66ec1fb48.png",
     "static/media/wigh.jpg": "/LawLanding/static/media/wigh.fba4f2f824828b070c46.jpg",
@@ -15,11 +15,11 @@
     "static/media/fox.png": "/LawLanding/static/media/fox.ced1f205cfc51a7b3a89.png",
     "static/media/debol.png": "/LawLanding/static/media/debol.ed7824971d6a25010d6c.png",
     "index.html": "/LawLanding/index.html",
-    "main.4d3d89ea.css.map": "/LawLanding/static/css/main.4d3d89ea.css.map",
-    "main.1e5e72f2.js.map": "/LawLanding/static/js/main.1e5e72f2.js.map"
+    "main.8a8d225c.css.map": "/LawLanding/static/css/main.8a8d225c.css.map",
+    "main.e6e2eab7.js.map": "/LawLanding/static/js/main.e6e2eab7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d3d89ea.css",
-    "static/js/main.1e5e72f2.js"
+    "static/css/main.8a8d225c.css",
+    "static/js/main.e6e2eab7.js"
   ]
 }
