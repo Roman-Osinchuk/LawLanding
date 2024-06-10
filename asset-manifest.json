@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LawLanding/static/css/main.4d3d89ea.css",
+    "main.js": "/LawLanding/static/js/main.1e5e72f2.js",
+    "static/media/oksford.jpg": "/LawLanding/static/media/oksford.e16b461fcec2f3d0497f.jpg",
+    "static/media/mappng.png": "/LawLanding/static/media/mappng.7e0c86a6eda66ec1fb48.png",
+    "static/media/wigh.jpg": "/LawLanding/static/media/wigh.fba4f2f824828b070c46.jpg",
+    "static/media/atb.png": "/LawLanding/static/media/atb.f2c8a317bdfed0a89a74.png",
+    "static/media/bob.jpeg": "/LawLanding/static/media/bob.a98bf05a34c70a36db5d.jpeg",
+    "static/media/stev.jpeg": "/LawLanding/static/media/stev.6382eab25c291fdbdd22.jpeg",
+    "static/media/ira.jpeg": "/LawLanding/static/media/ira.12a0bf8d74c391d003f5.jpeg",
+    "static/media/compani.jpg": "/LawLanding/static/media/compani.e086178b01e1754c39a6.jpg",
+    "static/media/Lvivske.png": "/LawLanding/static/media/Lvivske.6a17539ef50f50720cc4.png",
+    "static/media/back.jpg": "/LawLanding/static/media/back.91d1dea4aba62fec64cc.jpg",
+    "static/media/fox.png": "/LawLanding/static/media/fox.ced1f205cfc51a7b3a89.png",
+    "static/media/debol.png": "/LawLanding/static/media/debol.ed7824971d6a25010d6c.png",
+    "index.html": "/LawLanding/index.html",
+    "main.4d3d89ea.css.map": "/LawLanding/static/css/main.4d3d89ea.css.map",
+    "main.1e5e72f2.js.map": "/LawLanding/static/js/main.1e5e72f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3d89ea.css",
+    "static/js/main.1e5e72f2.js"
+  ]
+}
