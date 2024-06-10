@@ -21,9 +21,11 @@
   filter: grayscale(40%) blur(2px);
   z-index: -1; 
 }
-.h2{
+
+.h2 {
   color: white;
 }
+
 .section-content1 {
   margin-top: 50px; 
   z-index: 1; 
@@ -93,4 +95,45 @@
 
 .button:hover {
   background-color: #378ce8; 
+}
+
+/* Media queries for mobile devices */
+@media (max-width: 768px) {
+  .sectionAbout {
+    height: auto;
+    padding: 20px;
+  }
+
+  .section-content1 {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .section-content1 h2 {
+    font-size: 1.5em;
+  }
+
+  .section-content1 p {
+    font-size: 1em;
+  }
+
+  .additional-info1 {
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .info-container1 {
+    margin: 20px 0;
+    padding: 20px;
+  }
+
+  .button {
+    margin: 20px 2px;
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  .info-container1 {
+    width: 250px;
+  }
 }

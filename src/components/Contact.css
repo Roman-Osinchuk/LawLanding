@@ -73,3 +73,44 @@
 .submit-button:hover {
   background-color: #0056b3;
 }
+
+/* Media queries for mobile devices */
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-map, .contact-info {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .contact-image {
+    width: 100%;
+    height: auto;
+  }
+
+  .contact-info {
+    font-size: 1em; 
+  }
+
+  .contact-info h2 {
+    font-size: 1.2em; 
+  }
+
+  .input-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .phone-input {
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .submit-button {
+    width: 100%;
+    padding: 10px;
+  }
+}
