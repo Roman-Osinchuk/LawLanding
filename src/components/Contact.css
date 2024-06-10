@@ -1,0 +1,75 @@
+.section {
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.contact-map {
+  flex: 2;
+  padding: 20px;
+}
+
+.contact-image {
+  width: 500px; /* Задайте потрібний розмір зображення */
+  height: 450px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.contact-info {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 1.2em; /* Збільшення розміру тексту */
+}
+
+.contact-info h2 {
+  margin-bottom: 20px;
+  font-size: 1.5em; /* Збільшення розміру заголовка */
+}
+
+.contact-info p {
+  margin: 10px 0;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.phone-input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.submit-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+}
